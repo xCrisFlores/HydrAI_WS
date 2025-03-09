@@ -1,5 +1,5 @@
 # HydrAI_WS
-Este es proyecto es un Web Socket que integra distintos clientes, como los sensores y las aplicaciones o clientes, de forma que la interaccion entre estos sea bidireccional, el origen de los datos es el del ESP8266, un circuito con una tarjeta de red que envia los datos de un sensor (actualmente simulados) al socket, mientras que este, se encarga de procesar los datos recibidos, ademas de entrenar y utilizar una regresion en tiempo real, para poder enviar estos datos, ademas de la prediccion, a todos los clientes que esten conectados por medio de un broadcast.
+Este proyecto es un Web Socket que integra distintos clientes, como los sensores y las aplicaciones o clientes, de forma que la interaccion entre estos sea bidireccional, el origen de los datos es el del ESP8266, un circuito con una tarjeta de red que envia los datos de un sensor (actualmente simulados) al socket, mientras que este, se encarga de procesar los datos recibidos, ademas de entrenar y utilizar una regresion en tiempo real, para poder enviar estos datos, ademas de la prediccion, a todos los clientes que esten conectados por medio de un broadcast.
 ## ¿Como iniciar el proyecto?
 Para iniciar el proyecto o servicio del socket, puedes iniciar clonando este repositorio usando el siguiente comando git:
 ```
