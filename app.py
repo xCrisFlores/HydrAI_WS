@@ -44,7 +44,7 @@ def send_data_to_api_periodically():
     global time_active_api, consumption_api, user_id, sensor_id
 
     while True:
-        time.sleep(5)
+        time.sleep(6)
 
         with lock:
             if time_active_api > 0 or consumption_api > 0:

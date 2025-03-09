@@ -8,7 +8,6 @@ git clone https://github.com/xCrisFlores/HydrAI_WS.git
 O en su defecto simplemente descarga el proyecto desde esta pagina, una vez que tengas el proyecto dirigete a el en tu explorador de archivos y abre una terminal, o navega a el desde una terminal si conoces la ruta, ahora necesitas activar el entorno virtual del proyecto con el siguiente comando:
 ```
 venv\Scripts\activate
-
 ```
 Y posteriormente instalar sus dependencias:
 ```
