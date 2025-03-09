@@ -1,0 +1,13 @@
+venv/
+.Include
+.Lib
+.Scripts
+*.cfg
+
+ML_Modules/__pycache__
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
